@@ -1,1 +1,2 @@
 Here is a short message for the teach 04 activity.
+This is an edit of the original file.
