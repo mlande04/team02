@@ -1,3 +1,7 @@
 Here is a short message for the teach 04 activity.
 This is an edit of the original file.
+<<<<<<< HEAD
 This is a secondary mod for the stretch challenge.
+=======
+Stretch challenge edit.
+>>>>>>> 61f14dfec14646bab320da4f3de3df688000b172
